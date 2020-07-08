@@ -4,4 +4,20 @@
 
 body {
   background: #02c39a;
+  margin: 0;
+  padding: 0;
+}
+
+#particles-js {
+  width: 100vw;
+  height: 100vh;
+}
+
+#message {
+  color: white;
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  font-size: 2rem;
+  text-shadow: 1px 1px rgba(0,0,0,0.7);
 }
